@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://wanwan20182018.github.io/uk-student-offers/sitemap.xml
