@@ -1,9 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "大学生折扣网",
+    "title": "UK 生活宝典",
     "description": "",
-    "home_page_url": "https://wanwan20182018.github.io/uk-student-offers",
-    "feed_url": "https://wanwan20182018.github.io/uk-student-offers/feed.json",
+    "home_page_url": "https://uk-student-offers.pages.dev",
+    "feed_url": "https://uk-student-offers.pages.dev/feed.json",
     "user_comment": "",
     "author": {
         "name": "uk-student-offers"
