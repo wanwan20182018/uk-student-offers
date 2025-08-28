@@ -3,10 +3,32 @@
     <title>UK 生活宝典</title>
     <link href="https://uk-student-offers.pages.dev/feed.xml" rel="self" />
     <link href="https://uk-student-offers.pages.dev" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2025-08-25T21:46:15+01:00</updated>
     <author>
         <name>uk-student-offers</name>
     </author>
     <id>https://uk-student-offers.pages.dev</id>
 
+    <entry>
+        <title>11111</title>
+        <author>
+            <name>uk-student-offers</name>
+        </author>
+        <link href="https://uk-student-offers.pages.dev/11111/"/>
+        <id>https://uk-student-offers.pages.dev/11111/</id>
+            <category term="💷 福利与权益"/>
+            <category term="🏡安居指南"/>
+            <category term="🏠 居住与租房 Renting &amp; Living"/>
+
+        <updated>2025-08-25T21:46:15+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
